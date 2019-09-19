@@ -25,8 +25,8 @@ function readLine() {
 function Rectangle(length, width){
     this.length = length;
     this.width = width;
-    this.perimeter = 2*this.length + 2*this.width;
-    this.area = this.length * this.width;
+    this.perimeter = 2*length + 2*width;
+    this.area = length * width;
 }
 
 

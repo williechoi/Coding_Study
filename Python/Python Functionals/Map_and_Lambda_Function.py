@@ -1,3 +1,14 @@
+# Hackerrank Language Proficiency Module: Python
+# Title: Map and Lambda Function
+# Directory: Python > Python Functionals > Map and Lambda Function
+
+import math
+import os
+import random
+import re
+import sys
+
+
 cube = lambda x: x ** 3
 
 
